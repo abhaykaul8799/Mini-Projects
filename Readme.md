@@ -4,6 +4,7 @@
 
 #### Python
 1. Chat Application
+2. Tic Tac Toe
 
 
 #### Java
